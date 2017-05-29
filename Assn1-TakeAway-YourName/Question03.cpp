@@ -24,7 +24,7 @@ int main()
 
 
 			// calculates amount 
-			amount = (33.2 + 16.8) * (year);
+			amount = (33.2 + 16.8) * (year); 
 
 			//displays amount/ error checking
 			if (year <= 2005) {
